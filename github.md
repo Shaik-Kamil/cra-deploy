@@ -43,4 +43,11 @@ I am creating a Contact component. I want to then push it it to Github without m
 1. create a local branch
 2. create a Components folder
 3. create a Contact.js
-   4.git status
+4. git status to look at updates
+5. git add .
+6. git commit -m "message"
+7. add Component (Contact) to App.js
+8. npm start to make sure changes are working
+9. git status check everything is staged
+10. git push to local branch
+11.
