@@ -29,3 +29,18 @@ git checkout <branch name> without the b allows you to look at a branch & check 
 `git pull origin main`
 
 do this after you merge on GitHub and before you add anything else to your main branch
+
+to locally delete branch
+
+`git branch -d branch-name`
+
+if you get a message that it won't delete use
+
+`git branch -D branch-name `
+
+I am creating a Contact component. I want to then push it it to Github without my netlify updating
+
+1. create a local branch
+2. create a Components folder
+3. create a Contact.js
+   4.git status
